@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Diego Tozetto
 
-<p align="justify">Sou formado em Técnico em Informática e Engenharia de Computação... Atualmente faço Pós-graduação em Desenvolvimento Web com Frameworks Modernos. Além disso, gosto muito de aprender e evoluir minhas habilidades continuamente. Por isso, estou sempre em busca de aprender uma nova tecnologia.</p>
+<p align="justify">Sou formado em Técnico em Informática e Engenharia de Computação... Atualmente faço Pós-graduação em Desenvolvimento Web com Frameworks Modernos. Além disso, gosto muito de aprender e evoluir minhas habilidades, por isso, estou sempre estudando novas tecnologias e soluções.</p>
 
 <ul>
-    <li>🧰 Grande parte dos meus projetos estão disponíveis no <a href="https://github.com/diegoftozetto">Github</a>.</li>
+    <li>📝 Grande parte dos meus projetos estão disponíveis no <a href="https://github.com/diegoftozetto">Github</a>.</li>
     <li>🌎 Eu também tenho um website que você pode visualizar <a href="https://diegotozetto.home.blog/">aqui</a>.</li>	  
 </ul>
 
-<h2>🚀 Linguagens e Frameworks</h2>
+<h2>⚡ Linguagens e Frameworks</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +23,7 @@
   <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/android/android-original.svg">  
 </div>
 
-<h2>📈 Estatísticas</h2>
+<h2>📊 Estatísticas</h2>
 <div>
   <a href="https://github.com/diegoftozetto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoftozetto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
