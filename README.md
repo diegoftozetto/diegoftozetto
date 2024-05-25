@@ -4,7 +4,7 @@
 
 <ul>
     <li>📝 Grande parte dos meus projetos estão disponíveis no <a href="https://github.com/diegoftozetto">Github</a>.</li>
-    <li>🌎 Eu também tenho um website que você pode visualizar <a href="https://diegotozetto.home.blog/">aqui</a>.</li>	  
+    <li>🌎 Eu também tenho um website que você pode visualizar <a href="https://diegotozetto.notion.site/Desenvolvedor-Web-58520b88c2ce4956bcd1985f011e5b1b">aqui</a>.</li>	  
 </ul>
 
 <h2>⚡ Linguagens e Frameworks</h2>
