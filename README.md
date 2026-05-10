@@ -7,7 +7,7 @@
     <li>🌎 Eu também tenho um website que você pode visualizar <a href="https://diegotozetto.notion.site/Desenvolvedor-Web-58520b88c2ce4956bcd1985f011e5b1b">aqui</a>.</li>	  
 </ul>
 
-<h2>⚡ Linguagens e Frameworks</h2>
+<h2>⚡ Tecnologias</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,spring,aws,gcp,mysql,postgres,docker,redis,rabbitmq&perline=13" alt="Skills"/>
