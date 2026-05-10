@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Diego Tozetto
 
-<p align="justify">Desenvolvedor Full Stack com formação em Engenharia de Computação e pós-graduação em andamento em Desenvolvimento Web com Frameworks Modernos. Trabalho com JavaScript, Python e Java para construir aplicações web do front ao back-end — de interfaces React/Vue.js a APIs robustas e infraestrutura em nuvem (AWS e GCP). Gosto de código limpo, arquitetura bem pensada e de resolver problemas reais com tecnologia.</p>
+<p align="justify">Formado em Técnico em Informática e em Engenharia de Computação, sou apaixonado por tecnologia e pela construção de soluções escaláveis, eficientes e orientadas a impacto. Ao longo da minha trajetória, liderei iniciativas de evolução de aplicações e arquiteturas, contribuindo para o aumento da cobertura de testes, redução de bugs em produção, melhoria na eficiência do fluxo de desenvolvimento e revisão de código, além da definição e acompanhamento de métricas para garantir maior observabilidade, performance e qualidade contínua das soluções.</p>
 
 <ul>
     <li>📝 Grande parte dos meus projetos estão disponíveis no <a href="https://github.com/diegoftozetto">Github</a>.</li>
