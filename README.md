@@ -10,7 +10,7 @@
 <h2>⚡ Linguagens e Frameworks</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,react,vue,html,css,sass,aws,gcp,postgres&perline=13" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=py,js,nodejs,java,spring,aws,gcp,mysql,postgres,docker,redis,rabbitmq&perline=13" alt="Skills"/>
 </p>
 
 <h2>📊 Estatísticas</h2>
